@@ -1,0 +1,104 @@
+* 必要な情報
+- シリアルナンバー末尾偶奇
+- シリアルナンバー母音有無
+- パラレルポート有無
+- インジケーターCAR点灯
+- インジケーターFRK点灯
+- バッテリーの数
+
+* ボタン
+- 青ボタン中止 -> タイミング
+- バッテリー2以上起爆 -> すぐ離す
+- 白CAR -> タイミング
+- バッテリー2以上FRK -> 
+* 複雑ワイヤ
+
+| \  | R | B | RB | - |
+|----+---+---+----+---|
+| LS | B | P | -  | B |
+| L  | B | P | S  | - |
+| S  | o | - | P  | o |
+| -  | S | S | S  | o |
+
+o: 切る
+-: 切らない
+
+S: シリアルナンバー末尾が偶数なら切る x
+B: 爆弾ケースにバッテリーが2本以上あれば切る
+P: 爆弾ケースにパラレルポート(2列、13ピン+12ピン)があれば切る o
+
+* パスワード
+** a
+- about
+- after
+- again
+
+** b
+- below
+
+** c
+- could
+
+** e
+- every
+
+** f
+- first
+- found
+
+** g
+- great
+
+** h
+- house
+
+** l
+- large
+- learn
+
+** n
+- never
+
+** o
+- other
+
+** p
+- place
+- plant
+- point
+
+** r
+- right
+
+** s
+- small
+- sound
+- spell
+- still
+- study
+
+** t
+- their
+- there
+- these
+- thing
+- three
+
+** w
+- water
+- where
+- which
+- world
+- would
+- write
+
+* メモ
+r
+g
+g
+g
+
+2 2
+1 2
+1 1
+3 2
